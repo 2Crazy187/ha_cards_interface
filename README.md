@@ -1,3 +1,4 @@
+@sander, can you contact me please? 
 # Home Assistant Cards
 Welcome to my github and some explanations about the interface and cards I build in Home Assistant. For every card i'll explain a bit about the contents and what features are in it. The room cards I use, are custom, but i re-use them throughout the whole interface, you can just place them in Grids or other cards to arrange them. The base for every room is the same card. Just use them in grids, horizontal/vertical stacks, stack-in cards, whatever floats your boat.  
 The interface you see in the overview is our mobile dashboard, which is also usable for desktop. Every room has a Subview in where you can see all the detailed information or extended features for the entities in that room. I use the subviews, because they also contain a 'back' button by default.  
